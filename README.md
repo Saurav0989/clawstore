@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="clawstore — Long-term memory engine for OpenClaw" width="800"/>
+  <img src="banner.png" alt="clawstore — Long-term memory engine for OpenClaw" width="700"/>
 </p>
 
 <p align="center">
